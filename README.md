@@ -1,2 +1,2 @@
 # codsoft_task2
- The "Calculator" project in Python is a basic command-line calculator application. Users can perform arithmetic operations, such as addition, subtraction, multiplication, and division, by entering expressions in the console. 
+ The "Calculator" project in Python is a basic command-line calculator application. Users can perform arithmetic operations, such as addition, subtraction, multiplication, and division, by entering expressions in the console. The program evaluates the expressions and displays the results. It provides a simple and efficient tool for performing fundamental mathematical calculations in a straightforward manner.
